@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**Gaboogsh/Gaboogsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/656.gif" height="70" align="right">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/656.gif" height="70" align="right">
 
 # **Hi, I'm Gaboogsh!** 🎒
 > **Web & Mobile Application Developer** | **Trainer Level: 22** 💧
@@ -53,11 +45,3 @@ Here are some ideas to get you started:
 <p align="center">
   <i>"I wanna be the very best... like no dev ever was."</i>
 </p>
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
