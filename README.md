@@ -1,4 +1,4 @@
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/79.gif&flip=1" height="80" align="left">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/79.gif" height="80" align="left">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/656.gif" height="80" align="right">
 
 <br clear="all">
