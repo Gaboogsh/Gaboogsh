@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/656.gif" height="70" align="right">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/656.gif" height="100" align="right">
 
 # **Hi, I'm Gaboogsh!** 🎒
 > **Web & Mobile Application Developer** | **Trainer Level: 22** 💧
@@ -9,7 +9,8 @@
 - 📍 **Origin:** Pagbilao, Quezon, PH.
 - ⚔️ **Specialty:** Building robust web and mobile architectures.
 - 🛠️ **Current Quests:** [TraveLink](https://github.com/Gaboogsh/TraveLink) & **QTech ESS**.
-- 🌀 **Ability:** *Protean* – Constantly adapting to new technologies and frameworks.
+- 🌀 **Ability:** *Protean* – Constantly adapting my type (stack) to any challenge.
+- 💬 **Ask me about:** Pokémon lore, clean UI, or the latest JavaScript frameworks.
 
 ### **Current Party (Tech Stack)** ⚔️
 
